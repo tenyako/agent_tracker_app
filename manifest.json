@@ -1,0 +1,19 @@
+{
+    "author": {
+		"name" :"Adam Panzer",
+	    "email": "apanzer@zendesk.com"
+     },
+	 "frameworkVersion": "0.5",
+	"location":"ticket_sidebar",
+   "defaultLocale": "en",
+   "private": true,
+   "singleInstall": true,
+   "parameters":
+   [
+    {
+      "name":"append_group",
+      "type":"checkbox",
+      "required":false
+    }
+  ]
+}

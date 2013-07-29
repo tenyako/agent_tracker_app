@@ -1,0 +1,8 @@
+{
+  "app": {
+    "parameters": {
+      "append_group": { "label": "Check here to add the group to the tags: "}
+    }
+  },
+  "intro": "This app"
+}
