@@ -1,8 +1,9 @@
 {
-    "author": {
-		"name" :"Adam Panzer",
-	    "email": "apanzer@zendesk.com"
-     },
+  "name": "Agent Track App",
+  "author": {
+    "name": "Zendesk Services",
+    "email": "services@zendesk.com"
+  },
 	 "frameworkVersion": "0.5",
 	"location":"ticket_sidebar",
    "defaultLocale": "en",
